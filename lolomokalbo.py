@@ -43,7 +43,8 @@ def a():
 
 def b():
     print banner
-    print"Usage : python lolomokalbo.py 1 | 2 | 3 | 4 | h | v\n "
+    print"Usage : python lolomokalbo.py [mode] v\n "
+    pirnt"[Modes (isa lang)]:
     print"[+] 1 - Port Scanner\n"
     print"[+] 2 - Port Banners Grabber (Single)\n"
     print"[+] 3 - BackConnect \n"
